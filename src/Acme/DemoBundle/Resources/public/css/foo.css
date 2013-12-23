@@ -1,0 +1,7 @@
+.foo {
+    background: url('@AcmeDemoBundle/images/logo.gif');
+}
+
+.bar {
+    background: url('../images/logo.gif');
+}
