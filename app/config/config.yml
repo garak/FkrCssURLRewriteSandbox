@@ -45,4 +45,4 @@ assetic:
             inputs:
                 - "%kernel.root_dir%/../src/Acme/DemoBundle/Resources/public/css/foo.css"
             filters:
-                - cssrewrite
+                - css_url_rewrite
